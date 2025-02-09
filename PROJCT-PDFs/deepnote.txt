@@ -1,0 +1,22 @@
+slide 1:
+Automatic Feature Extraction: Unlike traditional machine learning,
+deep learning models can automatically discover the features needed
+for the task,reducing the need for manual feature engineering
+
+Handling Large Datasets: Deep learning thrives on large amounts of data,
+often performing better as the dataset size increases.
+
+Transfer Learning: Models pre-trained on large datasets
+can be fine-tuned for specific tasks with less data and computational power,
+reducing the need for extensive training from scratch.
+
+Data Hungry: Deep learning models typically require large amounts of data
+to perform well, which can be a limitation in data-scarce domains.
+
+Computationally Intensive: Training deep learning models can be
+resource-intensive, requiring powerful hardware and significant time,
+which can be costly
+
+Dependency on Quality Data: Deep learning models are highly sensitive
+to the quality of the data they are trained on. Noisy, biased,
+or incomplete data can lead to poor performance.
